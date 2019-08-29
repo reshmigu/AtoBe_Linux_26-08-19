@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6747" started-at="2019-08-29T09:00:55Z" finished-at="2019-08-29T09:01:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6747" started-at="2019-08-29T09:00:55Z" finished-at="2019-08-29T09:01:02Z">
+      <class name="com.test.FullRun">
+        <test-method status="PASS" signature="createIssue()[pri:0, instance:com.test.FullRun@55b699ef]" name="createIssue" duration-ms="2966" started-at="2019-08-29T14:30:55Z" finished-at="2019-08-29T14:30:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createIssue -->
+        <test-method status="PASS" signature="postTestExecution()[pri:1, instance:com.test.FullRun@55b699ef]" name="postTestExecution" duration-ms="141" started-at="2019-08-29T14:30:58Z" finished-at="2019-08-29T14:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTestExecution -->
+        <test-method status="PASS" signature="createEmployee()[pri:2, instance:com.test.FullRun@55b699ef]" name="createEmployee" duration-ms="1699" started-at="2019-08-29T14:30:59Z" finished-at="2019-08-29T14:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createEmployee -->
+        <test-method status="PASS" signature="updateEmployee()[pri:3, instance:com.test.FullRun@55b699ef]" name="updateEmployee" duration-ms="978" started-at="2019-08-29T14:31:00Z" finished-at="2019-08-29T14:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateEmployee -->
+        <test-method status="PASS" signature="deleteEmployee()[pri:4, instance:com.test.FullRun@55b699ef]" name="deleteEmployee" duration-ms="899" started-at="2019-08-29T14:31:01Z" finished-at="2019-08-29T14:31:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmployee -->
+        <test-method status="PASS" signature="afterAllTest()[pri:0, instance:com.test.FullRun@55b699ef]" name="afterAllTest" is-config="true" duration-ms="18382" started-at="2019-08-29T14:31:02Z" finished-at="2019-08-29T14:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTest -->
+      </class> <!-- com.test.FullRun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

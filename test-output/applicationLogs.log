@@ -1,0 +1,1273 @@
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 11:18:40 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 11:18:40 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 11:21:42 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 11:21:09 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 11:21:09 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 11:24:12 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 11:23:24 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 11:23:24 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 11:26:26 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 14:40:43 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 14:40:43 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 14:43:45 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 14:41:10 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 14:41:10 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 14:44:12 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 14:42:41 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 14:42:41 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 14:45:43 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 14:44:49 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 14:44:49 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 14:47:52 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 14:49:02 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 14:49:02 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 14:52:12 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 14:50:14 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 14:50:14 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 14:53:17 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 14:52:58 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 14:52:58 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 14:56:00 IST 2019
+[main] INFO  com.test.mail  - senting mails to [nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:01:06 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:01:06 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:04:09 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:02:14 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:02:14 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:05:16 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:12:21 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:12:21 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:15:24 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:13:32 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:13:32 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:16:35 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:14:34 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:14:34 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:17:37 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:16:10 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:16:10 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:19:13 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:16:38 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:16:38 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:19:41 IST 2019
+[main] INFO  com.test.FullRun  - Response :<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.</p>
+<p>Please contact the server administrator at 
+ webmaster@dummy.restapiexample.com to inform them of the time this error occurred,
+ and the actions you performed just before this error.</p>
+<p>More information about this error may be available
+in the server error log.</p>
+<p>Additionally, a 500 Internal Server Error
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+<hr>
+<address>Apache Server at dummy.restapiexample.com Port 80</address>
+</body></html>
+
+[main] INFO  com.test.FullRun  - Status Code :500
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:19:37 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:19:37 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:22:40 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:20:50 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:20:50 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:23:52 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:21:24 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:21:24 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:24:27 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:22:17 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:22:17 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:25:20 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:29:00 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:29:00 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:32:02 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:31:22 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:31:22 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:34:25 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:33:01 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:33:01 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:36:04 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:35:03 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:35:03 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:38:06 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:36:14 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:36:14 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:39:17 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:37:21 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:37:21 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:40:24 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Mon Aug 26 15:40:34 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEMon Aug 26 15:40:34 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEMon Aug 26 15:43:37 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 11:14:12 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 11:14:12 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 11:18:16 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 11:34:05 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 11:34:05 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 11:37:07 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 11:38:00 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 11:38:00 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 11:41:03 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 11:42:37 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 11:42:37 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 11:45:39 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 11:44:23 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 11:44:23 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 11:47:25 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 12:10:58 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 12:10:58 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 12:14:02 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 12:13:12 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 12:13:12 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 12:16:14 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 12:14:27 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 12:14:27 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 12:17:29 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 13:40:02 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 13:40:02 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 13:43:31 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 13:41:54 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 13:41:54 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 13:45:01 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 14:06:05 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 14:06:05 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 14:09:07 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 14:10:52 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 14:10:52 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 14:13:59 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 14:16:52 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 14:16:52 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 14:19:54 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 14:18:10 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 14:18:10 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 14:21:12 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 14:21:20 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 14:21:20 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 14:24:23 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] ERROR com.test.mail  - Exception inside MailUtil.sendEmail()javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.IOException: No content
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 14:22:52 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 14:22:52 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 14:25:59 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] ERROR com.test.mail  - Exception inside MailUtil.sendEmail()javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.IOException: No content
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 14:27:08 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 14:27:08 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 14:30:17 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 14:39:38 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 14:39:38 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 14:42:40 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 14:45:39 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 14:45:39 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 14:48:41 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 15:08:49 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 15:08:49 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 15:11:51 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 15:11:04 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 15:11:04 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 15:14:06 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 15:12:31 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 15:12:31 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 15:15:33 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 15:15:40 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 15:15:40 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 15:18:43 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 15:17:30 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 15:17:30 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 15:20:32 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Tue Aug 27 15:20:17 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMETue Aug 27 15:20:17 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMETue Aug 27 15:23:19 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Wed Aug 28 11:28:59 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEWed Aug 28 11:28:59 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEWed Aug 28 11:32:01 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Wed Aug 28 11:30:48 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEWed Aug 28 11:30:48 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEWed Aug 28 11:33:49 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Wed Aug 28 11:32:51 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEWed Aug 28 11:32:51 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEWed Aug 28 11:35:53 IST 2019
+[main] INFO  com.test.mail  - /E:/AtoBeNew/AtoBe_Linux_09-08/target/classes/templates/images/banner.jpg&&&
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Wed Aug 28 11:34:30 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEWed Aug 28 11:34:30 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEWed Aug 28 11:37:31 IST 2019
+[main] INFO  com.test.mail  - /E:/AtoBeNew/AtoBe_Linux_09-08/target/classes/templates/images/banner.jpg&&&
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Wed Aug 28 11:37:47 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEWed Aug 28 11:37:47 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEWed Aug 28 11:40:48 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Wed Aug 28 11:39:52 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEWed Aug 28 11:39:52 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEWed Aug 28 11:42:53 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Wed Aug 28 12:40:32 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEWed Aug 28 12:40:32 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEWed Aug 28 12:43:34 IST 2019
+[main] INFO  com.test.mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Wed Aug 28 17:01:37 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEWed Aug 28 17:01:37 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEWed Aug 28 17:04:38 IST 2019
+[main] INFO  com.test.DryRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.DryRun  - Status Code :200
+[main] INFO  com.test.DryRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.DryRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.DryRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.DryRun  - Status Code :200
+[main] INFO  com.test.DryRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.DryRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.DryRun  - Status Code :200
+[main] INFO  com.test.DryRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:15:50 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:15:50 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 10:18:51 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T10:18:54.231 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.Run  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.Run  - Status Code :200
+[main] INFO  com.test.Run  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.Run  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.Run  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.Run  - Status Code :200
+[main] INFO  com.test.Run  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.Run  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.Run  - Status Code :200
+[main] INFO  com.test.Run  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T10:19:16.651 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:28:19 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:28:19 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 10:31:20 IST 2019
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:28:56 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:28:56 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 10:31:57 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T10:31:59.211 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:37:48 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:37:48 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 10:40:49 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T10:40:52.273 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:40:59 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:40:59 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 10:44:00 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T10:44:03.080 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:42:30 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:42:30 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 10:45:31 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T10:45:33.808 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:44:42 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:44:42 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 10:47:43 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T10:47:45.303 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:45:09 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:45:09 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 10:48:10 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T10:48:12.367 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:50:38 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:50:38 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 10:53:39 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T10:53:41.390 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] ERROR com.test.Mail  - Exception inside MailUtil.sendEmail()javax.mail.MessagingException: Could not connect to SMTP host: smtp.office365.com, port: 587;
+  nested exception is:
+	java.net.ConnectException: Connection timed out: connect
+[main] INFO  com.test.Mail  - Could not connect to SMTP host: smtp.office365.com, port: 587
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:51:22 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:51:22 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 10:54:23 IST 2019
+[main] INFO  com.test.Mail  - Could not connect to SMTP host: smtp.office365.com, port: 587
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T10:54:27.522 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:55:07 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:55:07 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 10:58:08 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T10:58:10.576 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:57:02 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:57:02 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 11:00:03 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T11:00:06.032 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:58:43 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:58:43 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 11:01:44 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T11:01:46.400 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 10:59:59 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 10:59:59 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 11:03:00 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T11:03:02.608 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 11:01:02 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 11:01:02 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 11:04:03 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T11:04:06.462 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 11:48:01 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 11:48:01 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 11:51:02 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T11:51:12.628 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 11:49:26 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 11:49:26 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 11:52:27 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T11:52:29.724 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 12:06:03 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 12:06:03 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 12:09:04 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T12:09:06.926 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully
+[main] INFO  com.test.FullRun  - Response :{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ABC' for key 'employee_name_unique'}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :true
+[main] INFO  com.test.FullRun  - Does Reponse contains 'ABC'? :false
+[main] INFO  com.test.FullRun  - Response :{"name":"put_test_employee","salary":"1123","age":"23"}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :true
+[main] INFO  com.test.FullRun  - Response :{"success":{"text":"successfully! deleted Records"}}
+[main] INFO  com.test.FullRun  - Status Code :200
+[main] INFO  com.test.FullRun  - Does Reponse contains 'put_test_employee'? :false
+[main] INFO  com.test.FullRun  - TEST EXECUTION TIME Thu Aug 29 14:28:02 IST 2019
+[main] INFO  com.test.FullRun  - JASPER REPORT TIMEThu Aug 29 14:28:02 IST 2019
+[main] INFO  com.test.FullRun  - SYSTEM TIMEThu Aug 29 14:31:03 IST 2019
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - Done!
+[main] INFO  com.test.xrayapis.GenerateJasperReport  - 2019-08-29T14:31:16.757 ************* 
+[main] INFO  com.test.Mail  - senting mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - sent mails to [reshmi.g@thinkpalm.com, nasia.t@thinkpalm.com]
+[main] INFO  com.test.Mail  - Mail Sent Successfully

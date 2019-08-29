@@ -1,0 +1,15 @@
+2019-08-26 14:52:50,636 - ResourceManager : unable to find resource 'templates/eu_accountActivation.vm' in any resource loader.
+2019-08-26 14:53:55,955 - ResourceManager : unable to find resource 'templates/eu_accountActivation.vm' in any resource loader.
+2019-08-26 15:15:28,314 - ResourceManager : unable to find resource 'templates/eu_accountActivation.vm' in any resource loader.
+2019-08-26 15:16:38,306 - ResourceManager : unable to find resource '/RestAssuredServicesTestProject/src/main/resources/templates/eu_accountActivation.vm' in any resource loader.
+2019-08-26 15:17:39,763 - ResourceManager : unable to find resource 'eu_accountActivation.vm' in any resource loader.
+2019-08-26 15:19:15,897 - ResourceManager : unable to find resource '/RestAssuredServicesTestProject/src/main/resources/templates/eu_accountActivation.vm' in any resource loader.
+2019-08-26 15:19:43,981 - ResourceManager : unable to find resource 'RestAssuredServicesTestProject/src/main/resources/templates/eu_accountActivation.vm' in any resource loader.
+2019-08-26 15:22:42,479 - ResourceManager : unable to find resource 'eu_accountActivation.vm' in any resource loader.
+2019-08-26 15:23:55,697 - ResourceManager : unable to find resource 'templates\eu_accountActivation.vm' in any resource loader.
+2019-08-26 15:24:29,969 - ResourceManager : unable to find resource 'templates/eu_accountActivation.vm' in any resource loader.
+2019-08-26 15:25:22,788 - ResourceManager : unable to find resource 'E:\AtoBeNew\AtoBe_Linux_09-08\src\main\resources\templates\eu_accountActivation.vm' in any resource loader.
+2019-08-26 15:32:05,442 - ResourceManager : unable to find resource 'templates/eu_accountActivation.vm' in any resource loader.
+2019-08-26 15:34:27,712 - ResourceManager : unable to find resource '/templates/eu_accountActivation.vm' in any resource loader.
+2019-08-26 15:36:06,834 - ResourceManager : unable to find resource 'templates/eu_accountActivation.vm' in any resource loader.
+2019-08-27 11:37:10,173 - ResourceManager : unable to find resource 'templates/xray_report.vm' in any resource loader.
