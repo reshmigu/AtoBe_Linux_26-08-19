@@ -63,12 +63,13 @@ public class FullRun {
 		createIssueDTO = new CreateIssueDTO();
 		LocalDate date = LocalDate.now();
 		createIssueDTO.setDescription("AtoBe Automated Test Run " + date.toString());
-		createIssueDTO.setKey("TP");
+		createIssueDTO.setKey(PROJECT_ID);
 		createIssueDTO.setName("Test Execution");
 		createIssueDTO.setSummary("AtoBe Test Run " + date.toString());
 		testExecutionid = apiIntegration.createIssue(createIssueDTO);
 		Assert.assertNotNull(testExecutionid);
 
+		
 	}
 
 	@Test(priority = 1)
@@ -98,7 +99,7 @@ public class FullRun {
 			LOGGER.info(STATUS_CODE + response.getStatusCode());
 			LOGGER.info("Does Reponse contains 'ABC'? :" + response.asString().contains("ABC"));
 
-			TestRun testRun = apiIntegration.getTestRun("TP-2", testExecutionid);
+			TestRun testRun = apiIntegration.getTestRun("AT-2", testExecutionid);
 			if (response.getStatusCode() == 200 && !testRun.getStatus().equals("PASS"))
 				apiIntegration.updateTestCaseStatus(testRun.getId(), "PASS");
 
@@ -129,7 +130,7 @@ public class FullRun {
 		} catch (Exception e) {
 			LOGGER.info(e.getMessage());
 		}
-		TestRun testRun = apiIntegration.getTestRun("TP-3", testExecutionid);
+		TestRun testRun = apiIntegration.getTestRun("AT-3", testExecutionid);
 		if (response != null) {
 			LOGGER.info("Does Reponse contains 'ABC'? :" + response.asString().contains("ABC"));
 			LOGGER.info(RESPONSE + response.asString());
@@ -159,7 +160,7 @@ public class FullRun {
 		} catch (Exception e) {
 			LOGGER.info(e.getMessage());
 		}
-		TestRun testRun = apiIntegration.getTestRun("TP-4", testExecutionid);
+		TestRun testRun = apiIntegration.getTestRun("AT-4", testExecutionid);
 		if (response != null) {
 			if (response.getStatusCode() == 400 && !testRun.getStatus().equals("PASS"))
 				apiIntegration.updateTestCaseStatus(testRun.getId(), "PASS");
@@ -191,7 +192,10 @@ public class FullRun {
 		LOGGER.info(RESPONSE + response.asString());
 		LOGGER.info(STATUS_CODE + response.getStatusCode());
 		LOGGER.info("Does Reponse contains 'Country-Name'? :" + response.asString().contains("Belgium"));
+		
 		assertEquals(200, response.getStatusCode());
+		
+		
 
 	}
 
@@ -218,26 +222,55 @@ public class FullRun {
 		List<TestExecution> testExecution = XrayAPIIntegration.getTestExecution(testExecutionid);
 
 		List<JasperBugDTO> jasperBugDTOList = new ArrayList<>();
+		try {
 		testExecution.forEach(a -> {
-			JasperBugDTO jasperBugDTO = new JasperBugDTO();
+			JasperBugDTO jasperBugDTO = new JasperBugDTO();		
+			//
+			//System.out.println(list);
 			if (a.getStatus().equalsIgnoreCase("FAIL")) {
-				createBugDTO = new CreateIssueDTO();
-				LocalDate date = LocalDate.now();
-				createBugDTO.setDescription("AtoBe bug description " + date.toString());
-				createBugDTO.setKey("TP");
-				createBugDTO.setTestKey(a.getKey());
-				createBugDTO.setName("Bug");
-				createBugDTO.setSummary("Defect for " + testExecutionid);
-				ResponseDTO response = apiIntegration.createIssueBug(createBugDTO);
-
-				jasperBugDTO.setLinkedBugId(response.getKey());
-				jasperBugDTO.setBugLink(BASE_URL + BROWSE + response.getKey());
+				IssueList list =apiIntegration.getIssueList(PROJECT_ID,2);
+				if(list != null) {
+					list =apiIntegration.getIssueList(PROJECT_ID,list.getTotal());
+					list.getIssues().stream().filter(b->b.getFields().getDescription().equals("AtoBe bug description for "+a.getKey())).forEach(e->{
+						System.out.println("dfdsfsfsfs=========================>"+e.getKey());
+						Issue issue =apiIntegration.getIssue(e.getKey());
+						if(issue.getFields().getStatus().getName().equalsIgnoreCase("CLOSED")||issue.getFields().getStatus().getName().equalsIgnoreCase("DONE")) {
+							TransitionList transitionList=apiIntegration.getTransitionsFromBug(issue.getKey());
+							System.out.println("dfdsfsfsfs=========================>"+issue.getKey());
+							transitionList.getTransitions().stream().filter(c->c.getName().equalsIgnoreCase("Reopened")).forEach(d->{
+								apiIntegration.postTransitions(issue.getKey(), d.getId());
+							});
+							}
+					}); 
+						
+						
+					if(list.getIssues().stream().filter(b->b.getFields().getDescription().equals("AtoBe bug description for "+a.getKey())).count()<=0) {
+						System.out.println("=====================>");
+						createBugDTO = new CreateIssueDTO();
+						LocalDate date = LocalDate.now();
+						createBugDTO.setDescription("AtoBe bug description for " + a.getKey());
+						createBugDTO.setKey(PROJECT_ID);
+						createBugDTO.setTestKey(a.getKey());
+						createBugDTO.setName("Bug");
+						createBugDTO.setSummary("Defect for " + testExecutionid);
+						ResponseDTO response = apiIntegration.createIssueBug(createBugDTO);
+		
+						jasperBugDTO.setLinkedBugId(response.getKey());
+						jasperBugDTO.setBugLink(BASE_URL + BROWSE + response.getKey());	
+					}
+					
+					
+					}
+				
 			}
 			jasperBugDTO.setTestStatus(a.getStatus());
 			jasperBugDTO.setTestCaseId(a.getKey());
 			jasperBugDTO.setTestCaseLink(BASE_URL + BROWSE + a.getKey());
 			jasperBugDTOList.add(jasperBugDTO);
-		});
+		});}
+		catch(Exception e) {
+			e.printStackTrace();
+		}
 		try {
 			TestRun response = apiIntegration.getTestRun(testExecution.get(0).getKey(), testExecutionid);
 			GenerateJasperReport generateJasperReport = new GenerateJasperReport();
@@ -288,20 +321,14 @@ public class FullRun {
 			context.put("xrayLink", jasperReportDTO.getXrayLink());
 			context.put("issueLink", jasperReportDTO.getIssueIdLink());
 			context.put("jasperBugDTOList", jasperBugDTOList);
-
-			/*
-			 * Template template = Velocity.getTemplate("templates/eu_accountActivation.vm",
-			 * "UTF-8"); FileWriter fwriter = new FileWriter("eu_accountActivation.html");
-			 * StringWriter writer = new StringWriter(); template.merge(context, writer);
-			 * fwriter.write(writer.toString()); fwriter.close();
-			 */
-
 			test1.sendEmailWithTemplate("A-to-Be Xray Test Execution Report",
 					Arrays.asList("reshmi.g@thinkpalm.com", "nasia.t@thinkpalm.com"), "templates/xray_report.vm",
 					context);
 			test1.mailm("test-output/report.pdf");
+			
 		} catch (IOException e) {
 			LOGGER.info(e.getMessage());
+			e.printStackTrace();
 		}
 	}
 
