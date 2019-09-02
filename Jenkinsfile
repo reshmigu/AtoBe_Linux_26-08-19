@@ -278,7 +278,7 @@ def createTemplate(env,  testArray) {
 	sb.append '<!doctype html><html lang="en">'
 
 sb.append '<head> <!-- Required meta tags --> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <title>A-to-Be</title> </head>'
-sb.append '<body style="font-family: sans-serif; font-size: 12px;line-height: 1.4;"> <div style="max-width: 600px;margin: auto">'
+sb.append '<body style="font-family: Arial; line-height: 1.4;font-size:10px"><table style="width:600px;font-family: Arial;font-size: 12px;" align="center"><tr><td><div style="width: 600px;margin: auto; font-family: Arial;">'
 
 //images starts
 
@@ -287,14 +287,14 @@ sb.append  '<div> <img src="data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAA
 //images ends
 
    //heading data starts
-    sb.append '<h3 style="text-align: center; color: #0056ab">A-to-Be CI Execution Report</h3>'
+    sb.append '<h3 style="text-align: center; color: #0056ab;font-size:14px">A-to-Be CI Execution Report</h3>'
    
-  sb.append '<table style="width: 100%"> <tr> <td style="width: 50%">'
+  sb.append '<table style="width: 100%;font-family: Arial;font-size: 12px;"> <tr> <td style="width: 50%">'
   
-  sb.append '<table cellpadding="3">'
+  sb.append '<table style="font-family: Arial;font-size: 12px; padding-left:0" cellpadding="3">'
   
   //BRANCH_NAME
-  sb.append ' <tr> <th style="text-align: left">Branch</th> <td style="color:#666">'
+  sb.append ' <tr> <th style="text-align: left;font-family: Arial;">Branch</th> <td style="color:#666">'
   sb.append env.gitBranch
    sb.append '</td></tr>'
    
@@ -314,7 +314,7 @@ sb.append  '<div> <img src="data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAA
   sb.append '</td></tr>'  
   
   sb.append '</table> </td> <td style="width: 50%" align="right">'  
-  sb.append '<table  cellpadding="3">'
+  sb.append '<table style="font-family: Arial;;font-size: 12px;"  cellpadding="3">'
   
   //build Id
   sb.append ' <tr> <th style="text-align: left">Build Id</th> <td style="color:#666">'
@@ -340,10 +340,10 @@ sb.append  '<div> <img src="data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAA
 
   //heading data ends
     
-  sb.append '<h3 style=" color: #0056ab; margin-top: 20px;">Execution Summary</h3>'
+  sb.append '<h3 style=" color: #0056ab; margin-top: 20px;font-size:14px">Execution Summary</h3>'
   
   // Execution-Summary starts 
-  sb.append '<table style="width: 100%; text-align: center" cellpadding="3">'  
+  sb.append '<table style="width: 100%; text-align: center;font-family: Arial;font-size: 12px;" cellpadding="3">'  
   
   sb.append '<tr style="text-transform: uppercase; font-size: 11px;"> <th style="border-bottom: 1px solid #eee; width: 108px">Total Test case </th> <th style="border-bottom: 1px solid #eee">Passed </th> <th style="border-bottom: 1px solid #eee">Failed </th> <th style="border-bottom: 1px solid #eee; width: 108px"> Bugs Reported</th> </tr>'
   sb.append '<tr>'  
@@ -355,7 +355,7 @@ sb.append  '<div> <img src="data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAA
 sb.append '</tr></table>'	
 // Execution-Summary ends
 
-sb.append '<h3 style=" color: #0056ab; margin-top: 20px;">Test Case Execution Status</h3>'
+sb.append '<h3 style=" color: #0056ab; margin-top: 20px;font-size:14px">Test Case Execution Status</h3>'
 
 
 //Test Case Execution Status
@@ -364,7 +364,7 @@ def StatusHeaddingText ='TEST CASE NAME'
 if(env.Mode == 'FULL_RUN')
 	StatusHeaddingText = 'TEST CASE ID'
 
-sb.append ' <table style="width: 100%; text-align: left" cellpadding="3"> <tr style="text-transform: uppercase; font-size: 11px;"> <th style="border-bottom: 1px solid #eee;width: 106px;">'+ StatusHeaddingText +'</th> <th style="border-bottom: 1px solid #eee; text-align: center">Status </th> <th style="border-bottom: 1px solid #eee; width: 108px">Bugs Created </th> </tr>'
+sb.append ' <table style="width: 100%;font-family: Arial; text-align: left;font-size: 12px;" cellpadding="3"> <tr style="text-transform: uppercase; font-size: 11px;font-family: Arial;"> <th style="border-bottom: 1px solid #eee;width: 106px;text-align:left">'+ StatusHeaddingText +'</th> <th style="border-bottom: 1px solid #eee; text-align: center">Status </th> <th style="border-bottom: 1px solid #eee; width: 108px">Bugs Created </th> </tr>'
 
 
    
@@ -397,6 +397,6 @@ sb.append ' <table style="width: 100%; text-align: left" cellpadding="3"> <tr st
 	if(testArray.size == 0)
        sb.append  '<tr><td colspan="3" style="border:1px solid black">No details available to show</td></tr>'
 	
-	sb.append ('</table></div></body></html>')
+	sb.append ('</table></div></td></tr></table></body></html>')
 	return sb.toString()
 }
