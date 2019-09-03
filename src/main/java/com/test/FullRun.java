@@ -232,15 +232,24 @@ public class FullRun {
 				if(list != null) {
 					list =apiIntegration.getIssueList(PROJECT_ID,list.getTotal());
 					list.getIssues().stream().filter(b->b.getFields().getDescription().equals("AtoBe bug description for "+a.getKey())).forEach(e->{
-						System.out.println("dfdsfsfsfs=========================>"+e.getKey());
+						//System.out.println("CLOSED=========================>"+e.getKey());
 						Issue issue =apiIntegration.getIssue(e.getKey());
 						if(issue.getFields().getStatus().getName().equalsIgnoreCase("CLOSED")||issue.getFields().getStatus().getName().equalsIgnoreCase("DONE")) {
 							TransitionList transitionList=apiIntegration.getTransitionsFromBug(issue.getKey());
-							System.out.println("dfdsfsfsfs=========================>"+issue.getKey());
+							System.out.println("TODO=========================>"+issue.getKey());
 							transitionList.getTransitions().stream().filter(c->c.getName().equalsIgnoreCase("Reopened")).forEach(d->{
-								apiIntegration.postTransitions(issue.getKey(), d.getId());
+								apiIntegration.postTransitions(issue.getKey(), d.getId(),"Bug has been Reopened for "+testExecutionid);
 							});
 							}
+						else {
+							TransitionList transitionList=apiIntegration.getTransitionsFromBug(issue.getKey());
+							System.out.println("dfdsfsfsfs=========================>"+issue.getKey());
+							transitionList.getTransitions().stream().filter(c->c.getName().equalsIgnoreCase(issue.getFields().getStatus().getName())).forEach(d->{
+								apiIntegration.postTransitions(issue.getKey(), d.getId(),"Bug has been opened  in "+ issue.getFields().getStatus().getName().toUpperCase() +" status for "+testExecutionid );
+							});
+						}
+						jasperBugDTO.setLinkedBugId(e.getKey());
+						jasperBugDTO.setBugLink(BASE_URL + BROWSE + e.getKey());	
 					}); 
 						
 						
@@ -305,7 +314,7 @@ public class FullRun {
 					.count();
 			int failCount = (int) jasperBugDTOList.stream().filter(a -> a.getTestStatus().equalsIgnoreCase("FAIL"))
 					.count();
-			int bugCount = (int) jasperBugDTOList.stream().filter(a -> a.getBugLink() != null).count();
+			int bugCount = (int) jasperBugDTOList.stream().filter(a -> a.getTestStatus().equalsIgnoreCase("FAIL")).count();
 			context.put("projectName", jasperReportDTO.getProjectName());
 			context.put("issueId", jasperReportDTO.getIssueId());
 			context.put("summary", jasperReportDTO.getSummary());

@@ -32,6 +32,8 @@ public class XrayAPIIntegration {
 	private static final String CONTENT_TYPE = "application/json";
 	private static final String GET_ISSUELIST_URL=XrayAPIs.GET_ISSUE_URL;
 	private static final String GET_ISSUE_URL=XrayAPIs.GET_ISSUE;
+	private static final String POST_COMMENT_URL=XrayAPIs.COMMENT_URL;
+
 
 	public static List<TestExecution> getTestExecution(String testexecutionkey) {
 		String exc = TEST_EXECUTION_GET_URL;
@@ -121,14 +123,15 @@ public class XrayAPIIntegration {
 		return response.body().as(TransitionList.class);
 	}
 	
-	public int postTransitions(String issueId,int transitionId) {
+	public int postTransitions(String issueId,int transitionId,String message) {
 		String exc = BASE_URL + UPDATE_ISSUEURL;
 		String api = exc.replace("issueId", issueId);
-		String test = String.format("{\"update\":{\"comment\":[{\"add\":{\"body\":\"Bug has been reopened.\"}}]},\"transition\":{\"id\":\"%s\"}}",transitionId);
+		String test = String.format("{\"update\":{\"comment\":[{\"add\":{\"body\":\"%s\"}}]},\"transition\":{\"id\":\"%s\"}}",message,transitionId);
 		RequestSpecification request = RestAssured.given().auth().preemptive().basic(JIRA_USERNAME, JIRA_PASSWORD);
 		request.contentType(CONTENT_TYPE);
 		request.body(test);
 		Response response = request.post(api);
+		postComment(issueId,message);
 		return response.getStatusCode();
 	}
 	
@@ -157,5 +160,13 @@ public class XrayAPIIntegration {
 		}
 		return issue;
 	}
-
+	public void postComment(String issueId,String message) {
+		String exc = BASE_URL + POST_COMMENT_URL;
+		String api = exc.replace("issueId", issueId);
+		String test = String.format("{\"body\":\"%s\"}",message);
+		RequestSpecification request = RestAssured.given().auth().preemptive().basic(JIRA_USERNAME, JIRA_PASSWORD);
+		request.contentType(CONTENT_TYPE);
+		request.body(test);
+		Response response = request.post(api);
+	}
 }

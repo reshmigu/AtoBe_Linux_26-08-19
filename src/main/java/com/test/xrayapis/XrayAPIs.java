@@ -11,5 +11,6 @@ public class XrayAPIs {
 	public static final String UPDATE_ISSUE_URL="/rest/api/2/issue/issueId/transitions";
 	public static final String GET_ISSUE_URL="/rest/api/latest/search?jql=project=projectName&issuetype=Bug&fields=id,key,description,summary&maxResults=";
 	public static final String GET_ISSUE="/rest/api/2/issue/issueId?fields=status";
+	public static final String COMMENT_URL="/rest/api/2/issue/issueId/comment";
 
 }
