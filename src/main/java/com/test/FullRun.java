@@ -137,9 +137,9 @@ public class FullRun {
 			LOGGER.info(STATUS_CODE + response.getStatusCode());
 			LOGGER.info(
 					"Does Reponse contains 'put_test_employee'? :" + response.asString().contains("put_test_employee"));
-			if (response.getStatusCode() == 400 && !testRun.getStatus().equals("PASS"))
+			if (response.getStatusCode() == 200 && !testRun.getStatus().equals("PASS"))
 				apiIntegration.updateTestCaseStatus(testRun.getId(), "PASS");
-			else if (response.getStatusCode() == 200 && !testRun.getStatus().equals("FAIL")) {
+			else if (response.getStatusCode() != 200 && !testRun.getStatus().equals("FAIL")) {
 				apiIntegration.updateTestCaseStatus(testRun.getId(), "FAIL");
 			}
 
