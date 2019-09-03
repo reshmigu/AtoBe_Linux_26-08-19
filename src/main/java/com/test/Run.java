@@ -55,7 +55,7 @@ public class Run {
 		createIssueDTO = new CreateIssueDTO();
 		LocalDate date = LocalDate.now();
 		createIssueDTO.setDescription("AtoBe Automated Test Run " + date.toString());
-		createIssueDTO.setKey("TP");
+		createIssueDTO.setKey(PROJECT_ID);
 		createIssueDTO.setName("Test Execution");
 		createIssueDTO.setSummary("AtoBe Test Run " + date.toString());
 		testExecutionid = apiIntegration.createIssue(createIssueDTO);
@@ -89,7 +89,7 @@ public class Run {
 			LOGGER.info(STATUS_CODE + response.getStatusCode());
 			LOGGER.info("Does Reponse contains 'ABC'? :" + response.asString().contains("ABC"));
 
-			TestRun testRun = apiIntegration.getTestRun("TP-2", testExecutionid);
+			TestRun testRun = apiIntegration.getTestRun("AT-2", testExecutionid);
 			if (response.getStatusCode() == 200 && !testRun.getStatus().equals("PASS"))
 				apiIntegration.updateTestCaseStatus(testRun.getId(), "PASS");
 
@@ -123,7 +123,7 @@ public class Run {
 			LOGGER.info(STATUS_CODE + response.getStatusCode());
 			LOGGER.info(
 					"Does Reponse contains 'put_test_employee'? :" + response.asString().contains("put_test_employee"));
-			TestRun testRun = apiIntegration.getTestRun("TP-3", testExecutionid);
+			TestRun testRun = apiIntegration.getTestRun("AT-3", testExecutionid);
 			if (response.getStatusCode() == 200 && !testRun.getStatus().equals("PASS"))
 				apiIntegration.updateTestCaseStatus(testRun.getId(), "PASS");
 			else if (response.getStatusCode() != 200 && !testRun.getStatus().equals("FAIL"))
@@ -145,7 +145,7 @@ public class Run {
 		} catch (Exception e) {
 			LOGGER.info(e.getMessage());
 		}
-		TestRun testRun = apiIntegration.getTestRun("TP-4", testExecutionid);
+		TestRun testRun = apiIntegration.getTestRun("AT-4", testExecutionid);
 		if (response != null) {
 			if (response.getStatusCode() == 200 && !testRun.getStatus().equals("PASS"))
 				apiIntegration.updateTestCaseStatus(testRun.getId(), "PASS");
@@ -258,7 +258,7 @@ public class Run {
 			context.put("xrayLink", jasperReportDTO.getXrayLink());
 			context.put("issueLink", jasperReportDTO.getIssueIdLink());
 			context.put("jasperBugDTOList", jasperBugDTOList);
-			test1.sendEmailWithTemplate("A-to-Be Xray Test Execution Report", Arrays.asList("reshmi.g@thinkpalm.com"),
+			test1.sendEmailWithTemplate("A-to-Be Xray Test Execution Report", Arrays.asList("reshmi.g@thinkpalm.com", "nasia.t@thinkpalm.com"),
 					"templates/xray_report.vm", context);
 			test1.mailm("test-output/report.pdf");
 		} catch (IOException e) {

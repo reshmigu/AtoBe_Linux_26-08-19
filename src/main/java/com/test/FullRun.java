@@ -234,7 +234,7 @@ public class FullRun {
 					list.getIssues().stream().filter(b->b.getFields().getDescription().equals("AtoBe bug description for "+a.getKey())).forEach(e->{
 						//System.out.println("CLOSED=========================>"+e.getKey());
 						Issue issue =apiIntegration.getIssue(e.getKey());
-						if(issue.getFields().getStatus().getName().equalsIgnoreCase("CLOSED")||issue.getFields().getStatus().getName().equalsIgnoreCase("DONE")) {
+						if(issue.getFields().getStatus().getName().equalsIgnoreCase("CLOSED")||issue.getFields().getStatus().getName().equalsIgnoreCase("DONE")||issue.getFields().getStatus().getName().equalsIgnoreCase("RESOLVED")) {
 							TransitionList transitionList=apiIntegration.getTransitionsFromBug(issue.getKey());
 							System.out.println("TODO=========================>"+issue.getKey());
 							transitionList.getTransitions().stream().filter(c->c.getName().equalsIgnoreCase("Reopened")).forEach(d->{
@@ -245,7 +245,7 @@ public class FullRun {
 							TransitionList transitionList=apiIntegration.getTransitionsFromBug(issue.getKey());
 							System.out.println("dfdsfsfsfs=========================>"+issue.getKey());
 							transitionList.getTransitions().stream().filter(c->c.getName().equalsIgnoreCase(issue.getFields().getStatus().getName())).forEach(d->{
-								apiIntegration.postTransitions(issue.getKey(), d.getId(),"Bug has been opened  in "+ issue.getFields().getStatus().getName().toUpperCase() +" status for "+testExecutionid );
+								apiIntegration.postTransitions(issue.getKey(), d.getId(),"Bug reported in "+ issue.getFields().getStatus().getName().toUpperCase() +" status for "+testExecutionid );
 							});
 						}
 						jasperBugDTO.setLinkedBugId(e.getKey());
@@ -261,7 +261,7 @@ public class FullRun {
 						createBugDTO.setKey(PROJECT_ID);
 						createBugDTO.setTestKey(a.getKey());
 						createBugDTO.setName("Bug");
-						createBugDTO.setSummary("Defect for " + testExecutionid);
+						createBugDTO.setSummary("Defect");
 						ResponseDTO response = apiIntegration.createIssueBug(createBugDTO);
 		
 						jasperBugDTO.setLinkedBugId(response.getKey());
